@@ -1,15 +1,18 @@
 ---
 name: Daily Update
 about: Use this template for the daily update
-title: "XXX-XXX | NAME | Weekly report"
-labels: weekly update
-assignees: YOURIDHERE, kapravel
+title: XXX-XXX | NAME | Weekly report
+labels: ''
+assignees: kapravel
+
 ---
 
-### What was done
+## What was done
 
-#### Milestone:
+### Milestone:
 
-### Up next
+## Up next
 
-### Milestone: 
+### Milestone:
+
+## Paper of the week:
