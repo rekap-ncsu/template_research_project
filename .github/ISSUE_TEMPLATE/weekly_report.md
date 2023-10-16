@@ -2,7 +2,7 @@
 name: Daily Update
 about: Use this template for the daily update
 title: XXX-XXX | NAME | Weekly report
-labels: ''
+labels: 'weekly update'
 assignees: kapravel
 
 ---
