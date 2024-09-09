@@ -14,11 +14,11 @@ body:
       value: | 
         ## What was done
         
-        ### Milestone: MILESTONE
+        #### Milestone: MILESTONE
 
         ## Up next
 
-        ### Milestone: MILESTONE
+        #### Milestone: MILESTONE
 
         ## Paper of the week:
     validations:
