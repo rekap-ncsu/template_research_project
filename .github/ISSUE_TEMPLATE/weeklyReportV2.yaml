@@ -1,8 +1,8 @@
 name: Weekly Update V2
 description: Template for the weekly report (yaml edition).
 title: "XXX-XXX | NAME | PROJECT-NAME"
-labels: ["Weekly Update"]
-projects: ["rekap progress report"]
+labels: ["weekly update"]
+projects: ["rekap-ncsu/4"]
 assignees:
   - kapravel
 body:
