@@ -1,0 +1,26 @@
+name: End of Sprint Cycle Review
+description: Template for the end of sprint cycle review of milestones.
+title: "Cycle Review START_DATE-END_DATE YEAR| NAME | PROJECT-NAME"
+labels: ["weekly report"]
+projects: ["rekap-ncsu/4"]
+assignees:
+  - kapravel
+body:
+  - type: textarea
+    id: main-stuff
+    attributes:
+      label: Content
+      description: Enter your milestones that are completed / need more work as well as next steps for the next sprint
+      value: | 
+        ## Milestones Complete
+        
+        #### Milestone: MILESTONE 🪦
+
+        ## Milestones In-Progress
+
+        #### Milestone: MILESTONE 🛟
+
+        ## Up next
+        
+    validations:
+      required: true
