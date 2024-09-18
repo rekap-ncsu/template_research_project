@@ -9,9 +9,13 @@ body:
   - type: textarea
     id: main-stuff
     attributes:
-      label: Content
+      label: Project Problem Statement
       description: Enter your milestones and issues attached to them
       value: | 
+        PROBLEM STATEMENT HERE
+
+        ### Sprint Goal
+        
         ## What was done
         
         #### Milestone: MILESTONE
